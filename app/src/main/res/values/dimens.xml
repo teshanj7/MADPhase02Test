@@ -11,4 +11,29 @@
     <!--ViewAll-->
     <dimen name="ViewUpdateLength">100dp</dimen>
     <dimen name="ViewUpdateHeight">50dp</dimen>
+
+<!--    Login page and profile details-->
+    <!--index page-->
+    <dimen name="index_logo">247dp</dimen>
+    <dimen name="index_logo_height">242dp</dimen>
+    <dimen name="index_btn_login">320dp</dimen>
+    <dimen name="index_btn_login_height">65dp</dimen>
+    <dimen name="index_btn_createaccount">320dp</dimen>
+    <dimen name="index_btn_create_height">65dp</dimen>
+
+    <!--login page-->
+    <dimen name="login_logo">121dp</dimen>
+    <dimen name="login_logo_height">127dp</dimen>
+    <dimen name="btn_login">350dp</dimen>
+    <dimen name="btn_login_height">60dp</dimen>
+
+    <!--register page-->
+    <dimen name="btn_register">0dp</dimen>
+    <dimen name="btn_register_height">wrap_content</dimen>
+
+    <!--view page-->
+    <dimen name="view_logo">84dp</dimen>
+    <dimen name="view_logo_height">79dp</dimen>
+    <dimen name="view_btn_update">155dp</dimen>
+    <dimen name="view_btn_update_height">0dp</dimen>
 </resources>

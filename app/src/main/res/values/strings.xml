@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PawningSystem</string>
+    <string name="app_name">CashInPawn</string>
     <!--DashBoard-->
     <string name="dashboardDes">Dashboard</string>
     <!--Pawning-->
@@ -43,6 +43,55 @@
     <string name="DashBoard2">Cash Returns</string>
     <string name="DashBoard3">Customer Support</string>
     <string name="DashBoard4">InfoHub</string>
+
+<!--    Login page and profile details-->
+    <!--login page -->
+    <string name="login">Login</string>
+    <string name="user_id">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="signup_login">SIGN UP</string>
+
+    <!--index page-->
+    <string name="login_index">LOGIN</string>
+    <string name="create_btn_index">CREATE ACCOUNT</string>
+
+    <!--register page-->
+    <string name="signup_id">Sign up</string>
+    <string name="name_id">Full Name</string>
+    <string name="email_id">Email</string>
+    <string name="nic_id">NIC</string>
+    <string name="address_id">Address</string>
+    <string name="tele_id">Telephone Number</string>
+    <string name="user_id_C">Username</string>
+    <string name="pass_C">Password</string>
+    <string name="re_ty_pass">Retypepassword</string>
+    <string name="check_box">I agree to terms and condition</string>
+    <string name="btn_submit_C">SUBMIT</string>
+    <string name="login_C">LOGIN</string>
+
+    <!--user account page-->
+    <string name="user_Acc">User Account</string>
+    <string name="name_Acc">Full Name :  W.A. Bihesha Dilshan</string>
+    <string name="email_Acc">Email :  dilshan0234@gmail.com</string>
+    <string name="nic_Acc">NIC :  325625120V</string>
+    <string name="add_Acc">Address :  125/5, kottawa, pannipitiya</string>
+    <string name="tele_Acc">Telephone Number :  0112354189</string>
+    <string name="user_view">Username :  Bihesha</string>
+    <string name="pass_Acc">Password :  ********</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_dele_Acc">Delete</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--update account page-->
+    <string name="upd_Acc">Update Account</string>
+    <string name="upd_button">Update</string>
+
+    <!--delete account page-->
+    <string name="dele_Acc">Delete Account</string>
+    <string name="dele_button">Delete my account</string>
 
 </resources>
 

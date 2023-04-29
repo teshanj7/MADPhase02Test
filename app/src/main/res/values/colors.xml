@@ -11,6 +11,9 @@
     <color name="GoldTheme">#DEA113</color>
     <color name="DashBoardtextColour">#1F2277</color>
     <color name="bgColour1">#F6EED2</color>
+
+<!--    Login and profile colors-->
+    <color name="navy_blue">#2D2F5C</color>
 </resources>
 
 
