@@ -70,7 +70,7 @@
         android:layout_width="@dimen/btn_login"
         android:layout_height="@dimen/btn_login_height"
         android:layout_marginTop="28dp"
-        android:backgroundTint="@color/navy_blue"
+        android:backgroundTint="@color/NavyBlueTheme"
         android:text="@string/btn_login"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="@+id/password"

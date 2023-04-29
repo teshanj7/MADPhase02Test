@@ -199,7 +199,7 @@
                 android:layout_width="@dimen/btn_register"
                 android:layout_height="@dimen/btn_register_height"
                 android:layout_marginTop="12dp"
-                android:backgroundTint="@color/navy_blue"
+                android:backgroundTint="@color/NavyBlueTheme"
                 android:text="@string/btn_submit_C"
                 android:textSize="20sp"
                 app:layout_constraintEnd_toEndOf="@+id/checkBox"

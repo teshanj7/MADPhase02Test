@@ -173,7 +173,7 @@
                     android:layout_width="@dimen/view_btn_update"
                     android:layout_height="@dimen/view_btn_update_height"
                     android:layout_marginTop="24dp"
-                    android:backgroundTint="@color/navy_blue"
+                    android:backgroundTint="@color/NavyBlueTheme"
                     android:paddingLeft="20dp"
                     android:paddingTop="10dp"
                     android:paddingRight="10dp"
