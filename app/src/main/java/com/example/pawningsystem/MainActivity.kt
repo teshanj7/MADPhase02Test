@@ -1,11 +1,12 @@
-package com.example.loginpage
+package com.example.pawningsystem
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class index : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_index2)
+        setContentView(R.layout.activity_login)
     }
+
 }
